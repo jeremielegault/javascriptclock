@@ -59,7 +59,7 @@ var updateClock = () => {
     image =
       "http://ic.pics.livejournal.com/agilejack/53691925/74307/74307_600.jpg";
     messageText = "Wake up!";
-  } else if (time == lunchtime) {
+  } else if (time == lunctime) {
     image =
       "https://s36700.pcdn.co/wp-content/uploads/2017/10/A-hungry-dog-looking-up-near-his-food-and-water-bowl-600x400.jpg.optimal.jpg";
     messageText = "Let's have some lunch";
